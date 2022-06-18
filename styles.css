@@ -15,6 +15,7 @@
     padding: 0px;
 
 }
+
 .btn1{
     margin:5px;
     float:left;
@@ -29,7 +30,4 @@
 }
 .btn1:hover{
     background-color: aqua;
-}
-.a{
-
 }
