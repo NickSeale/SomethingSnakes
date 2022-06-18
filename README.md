@@ -1,2 +1,2 @@
 # SomethingSnakes
-What are snakes? Well they're something, that's for sure. 
+What are snakes? Well they're the best, that's for sure. 
